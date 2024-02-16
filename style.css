@@ -1,7 +1,11 @@
-.Nomes { 
+.nomes { 
     color: white;
 }
 
 .body { 
         color: #1f2124;
+}
+
+.cabeçalho {
+    color: #1f2124;
 }
