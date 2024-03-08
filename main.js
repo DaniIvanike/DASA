@@ -1,2 +1,2 @@
-alert ('Bom dia Madrinha linda!!');
-prompt('Qual üe o seu nome?')
+//alert ('Bom dia Madrinha linda!!');
+var nomeUsuario = prompt('Qual üe o seu nome?');
