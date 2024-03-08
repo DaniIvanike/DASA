@@ -1,5 +1,5 @@
 //alert ('Bom dia Madrinha linda!!');
-var nomeUsuario = prompt('');
+var nomeUsuario = '';
 var texto = document.querySelector ('span');
 
 texto.textContent = nomeUsuario;
