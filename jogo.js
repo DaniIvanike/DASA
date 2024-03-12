@@ -5,7 +5,7 @@ let chute = prompt ('Escolha um número entre 0 a 10.');
 if(numeroSecreto == chute){
       alert('Parabéns!!! Você acertou :)');
       console.log('Parabéns, acertou mizera');
-} else {
+} else{
     alert('Errou infeliz >:(');
       console.log('Infelizmente você falhou');
 }
