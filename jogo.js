@@ -2,9 +2,7 @@ let numeroSecreto  = 8;
 
 let chute = '';
 
-while(chute == ''){
-    chute = prompt ('Escolha um número entre 0 a 10.');
-}
+
 
 while(chute == null || chute != numeroSecreto){
     alert('Tenta de novo arrombado :)');
