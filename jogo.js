@@ -3,7 +3,9 @@ console.log (numeroSecreto);
 
 let chute = prompt ('Escolha um número entre 0 a 10.');
 
-while(chute == null || chute != numeroSecreto){
+
+
+while(chute == null || chute == ''){
     alert('Tenta de novo arrombado :)');
     chute = prompt ('Escolha um número entre 0 a 10.');
 }
