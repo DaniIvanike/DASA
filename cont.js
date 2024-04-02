@@ -3,4 +3,6 @@ console.log(botoes.length)
 
 for(let sas = 0; sas < botoes.length; sas++){
     console.log(sas);
+    console.log(botoes[i]);
 }
+
