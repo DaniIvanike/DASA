@@ -2,6 +2,9 @@
     color: rgb(0, 0, 0);
 }
 
+.corpo { 
+        background-color: #1f2124;
+}
 
 .cabeçalho {
     background-color: #1f2124;
@@ -28,5 +31,5 @@ span {
  }
 
  .ativo{
-    border-bottom: 4px solid aqua(156, 51, 156);
+    border-bottom: 4px solid rgb(8, 235, 129);
  }
