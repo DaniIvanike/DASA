@@ -17,3 +17,14 @@
 span {
     color: chartreuse;
  }
+
+ section {
+    padding-top: 30px;
+    background-color: cadetblue (172, 149, 201, 0.586);
+ }
+
+ .objetivos {
+    font-size: 18px;
+    padding: 18px;
+    
+ }
