@@ -29,3 +29,7 @@ span {
     padding: 18px;
 
  }
+
+ .ativo{
+    border-bottom: 4px solid aqua(156, 51, 156);
+ }
