@@ -1,6 +1,6 @@
 const botoes = document.querySelectorAll('.objetivos');
 const textos = document.querySelectorAll('.aba-conteudo');
-console.log(botoes.length)
+console.log(botoes.length);
 
 for(let sas = 0; sas < botoes.length; sas++){
     console.log(sas);
