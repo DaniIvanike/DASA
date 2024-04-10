@@ -33,3 +33,11 @@ span {
  .ativo{
     border-bottom: 4px solid rgb(8, 235, 129);
  }
+
+ .textos {
+    text-align: center;
+ }
+
+ .aba-conteudo {
+    display: none;
+ }
