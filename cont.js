@@ -9,10 +9,9 @@ for (let sas = 0; sas < botoes.length; sas++) {
         for (let j = 0; j < botoes.length; j++) {
             console.log(j);
             botoes[j].classList.remove('ativo');
-            textos[j].classList.remove('ativa');
         }
         botoes[sas].classList.add('ativo');
-        // textos[sas].classList.add('ativa');
+        textos[sas].classList.add('ativa');
     }
 }
 
