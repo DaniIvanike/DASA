@@ -10,7 +10,7 @@ for (let sas = 0; sas < botoes.length; sas++) {
             textos[j].classList.remove('ativa');
         }
         botoes[sas].classList.add('ativo');
-        textos[sas].classList.add('ativa');
+        // textos[sas].classList.add('ativa');
     }
 }
 
