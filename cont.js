@@ -16,3 +16,5 @@ for (let sas = 0; sas < botoes.length; sas++) {
     }
 }
 
+const contadores = document.querySelectorAll('.contador');
+
