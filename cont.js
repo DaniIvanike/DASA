@@ -17,4 +17,5 @@ for (let sas = 0; sas < botoes.length; sas++) {
 }
 
 const contadores = document.querySelectorAll('.contador');
+const tempoObjetivo1 = new Date ('2024-04-18T00:00:00');
 
