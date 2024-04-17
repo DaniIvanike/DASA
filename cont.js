@@ -22,7 +22,8 @@ let tempoAtual = new Date();
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 
 let segundos = tempoFinal/1000
+let minutos = segundos/60
 
-contadores[0].textContent = segundos;
+contadores[0].textContent = minutos;
 
 
